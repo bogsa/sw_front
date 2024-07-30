@@ -1,0 +1,35 @@
+{
+  "name": "sw_vue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/components": "^10.9.0",
+    "@vueuse/core": "^10.9.0",
+    "@vueuse/integrations": "^10.9.0",
+    "axios": "^1.6.8",
+    "jwt-decode": "^3.1.2",
+    "material-symbols": "^0.17.2",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "v-idle": "^1.0.3",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-swatches": "^1.2.4",
+    "vuetify": "^3.5.13"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@mdi/light-font": "^0.2.63",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "sass": "^1.72.0",
+    "vite": "^5.1.6"
+  }
+}

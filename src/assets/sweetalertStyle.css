@@ -1,0 +1,16 @@
+.custom-container {
+    margin: 2px !important;
+  }
+  .custom-title { 
+    font-size: 1.3rem !important;
+    padding: 0px;
+  } 
+  .custom-button { 
+    border-radius: 5px !important;
+    padding: 9px;
+    height: 36px !important;
+    width: 100px !important;
+    font-size: 0.9rem !important;
+    margin: 3px;
+  }
+ 
